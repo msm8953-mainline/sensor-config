@@ -1,0 +1,3 @@
+[submodule "sns-reg"]
+	path = sns-reg
+	url = https://gitlab.com/msm8996-mainline/sns-reg
